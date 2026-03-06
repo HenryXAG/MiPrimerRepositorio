@@ -1,5 +1,7 @@
 Algoritmo SumarHastaCincuenta
 	
+	//Pedir números hasta que la suma sea mayor que 50 
+	
 	Definir suma, num Como Entero
 	suma = 0
 	
@@ -12,3 +14,10 @@ Algoritmo SumarHastaCincuenta
 	
 	Escribir "La suma final es: ", suma, ". Superaste el límite de 50"
 FinAlgoritmo
+
+
+
+
+
+
+
